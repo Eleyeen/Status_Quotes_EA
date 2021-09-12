@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#20CBA0</color>
+    <color name="colorTabHost" type="color">#065E52</color>
+    <!-- <color name="colorPrimary">#ED1E33</color>  -->
+    <color name="colorPrimaryDark">#9d79fe</color>
+    <color name="colorAccent">#CC4081</color>
+
+    <color name="color0D">#0D6E55</color>
+    <color name="colorF9">#F9F9F9</color>
+
+    <color name="black_overlay">#66000000</color>
+    <item name="blue" type="color">#FF33B5E5</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <item name="customeblue" type="color">#3b5998</item>
+    <item name="lowDarkfont" type="color">#5D070E07</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="whitebackground" type="color">#d4d3d3</item>
+    <item name="black" type="color">#040303</item>
+    <item name="clor_nav_footer" type="color">#707070</item>
+    <item name="RatingBarNormal" type="color">#ACABAB</item>
+    <item name="RatingBarActivated" type="color">#7C7979</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+        <item>@color/customeblue</item>
+        <item>@color/lowDarkfont</item>
+        <item>@color/whitebackground</item>
+        <item>@color/white</item>
+        <item>@color/colorTabHost</item>
+        <item>@color/RatingBarNormal</item>
+        <item>@color/RatingBarActivated</item>
+        <item>@color/clor_nav_footer</item>
+        <item>@color/colorF9</item>
+    </integer-array>
+
+    <color name="primary_dark">#303F9F</color>
+
+
+</resources>

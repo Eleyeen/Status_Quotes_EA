@@ -1,0 +1,34 @@
+<resources>
+    <!-- ****************** for updated **************** -->
+    <string name="app_name"> Best Quotes and Status </string>
+    <string name="name_file"> skulls.json </string>
+    <string name="name_json"> skulls </string>
+
+    <!-- FaceBook Ads -->
+    <string name="facebook_app_id"> 2047389152220457 </string>
+    <string name="facebook_interstitial_id">2047389152220457_2047403555552350</string>
+    <string name="facebook_banner_id">2047389152220457_2047400788885960</string>
+
+
+    <!-- Admob Ads -->
+    <string name="id_app_admob"> ca-app-pub-7877344143662702~9492914669 </string>
+
+    <string name="share_app"> Greate app for daily life quotes: https://play.google.com/store/apps/details?id=com.learntodraw.drawskullstattoo </string>
+    <string name="url_app_store"> https://play.google.com/store/apps/details?id=com.learntodraw.drawskullstattoo </string>
+
+    <!-- ********************************************** -->
+
+    <string name="share"> Share App </string>
+    <string name="rate"> Rate App </string>
+    <string name="share_app_via"> Share via </string>
+    <string name="please_on_internet"> You are not connected to Internet </string>
+    <string name="reserved_for_ads"> Reserved for Ads</string>
+
+    <string name="step_number"> 12 Steps </string>
+    <string name="step_number_value"> Step : 1/12 </string>
+    <string name="draw_wolves"> Draw a wolves head </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+</resources>

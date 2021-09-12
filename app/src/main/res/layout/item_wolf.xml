@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btnStart"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+
+    android:background="@color/primary_dark"
+    android:gravity="center_vertical"
+    android:layout_marginTop="10dp"
+    android:padding="10dp">
+
+
+    <TextView
+        android:id="@+id/tvDraw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:text="@string/draw_wolves"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/tvStepsNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDraw"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/step_number"
+        android:textColor="@color/white"
+        android:textSize="13dp"
+        android:textStyle="normal" />
+
+</RelativeLayout>
+
+
